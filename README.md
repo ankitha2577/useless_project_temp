@@ -1,47 +1,43 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# moodtracker 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: SAVANT
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Ankitha T] - [CUSAT]
+- Member 2: [Anjana] - [CUSAT]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+tracking mood of each day.A web application made with react to track your emotions using emoji.well have a great day ahead with this
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[we are not able to track our daily emotions in our calender and make our days better.It will help you to find about phase of life you are leading and make a better plan for refreshment.]]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[By introducing a calendar where you can fill with emojis and track your mood.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Javascript,typescript ]
+- [react]
+- [react-calendar react-clock emoji-picker-react]
+- [vscode,copiolt ]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
-For Software:
+For Software:vscode used ,copiolt used and react framework
 # Installation
 [commands]
 
 # Run
-[commands]
+[npm run dev]
 
 ### Project Documentation
 For Software:
